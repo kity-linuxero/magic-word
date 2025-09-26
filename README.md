@@ -1,16 +1,9 @@
-# Nedry
-A CSS animated Access Denied page complete with sound, featuring the beloved Dennis Nedry from Jurassic Park.
+# magic-word
 
-Dennis Nedry Jurassic Park - Ah Ah Ah, you didn't say the magic word!
+Magic Word is a simple page that can be used to indicate denied access, inspired by the phrase "YOU DIDN'T SAY THE MAGIC WORD" from the movie Jurassic Park, one of my favorites when I was a kid.
 
-## Demo
-<a href="https://markhjorth.github.io/nedry/">
-  <img width="500" src="https://github.com/markhjorth/nedry/blob/master/nedr-screenshot.png?raw=true">
-</a>
-</br>
-Try the demo <a href="https://markhjorth.github.io/nedry/">here</a>
+I relied on the repo [https://github.com/MarkHjorth/nedry](https://github.com/MarkHjorth/nedry) to display the Nedry animation (credits to [MarkHjorth](https://github.com/MarkHjorth)), adding the screen that shows the terminal text.
 
-## Additional info
-Copyright (c) 2018 Mark Hjorth
+### Demo online
 
-Original Copyright (c) 2014 [Tully Robinson](https://github.com/tojrobinson/jurassicsystems.com)
+Try this in []()
